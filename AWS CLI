@@ -1,0 +1,2 @@
+# Migrate S3 bucket from old to new
+aws s3 sync s3://old-bucket s3://new-bucket
